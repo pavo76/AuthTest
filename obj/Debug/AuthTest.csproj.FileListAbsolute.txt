@@ -96,3 +96,4 @@ c:\users\dominik\documents\visual studio 2017\Projects\AuthTest\AuthTest\obj\Deb
 c:\users\dominik\documents\visual studio 2017\Projects\AuthTest\AuthTest\obj\Debug\AuthTest.pdb
 c:\users\dominik\documents\visual studio 2017\Projects\AuthTest\AuthTest\bin\BotDetect.dll
 c:\users\dominik\documents\visual studio 2017\Projects\AuthTest\AuthTest\bin\BotDetect.Web.Mvc.dll
+C:\Users\Dominik\documents\visual studio 2017\Projects\AuthTest\AuthTest\bin\Recaptcha.Web.dll
